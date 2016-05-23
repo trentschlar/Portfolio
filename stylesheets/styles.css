@@ -319,7 +319,7 @@ section {
 		cursor: default;
 	}
 	
-		#logo h1
+		#logo a
 		{
 			position: relative;
 			color: #fff;
