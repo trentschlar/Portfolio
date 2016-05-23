@@ -52,11 +52,11 @@ h1, h2, h3 {
 	font-weight: normal;
 }
 
-h1,h2, h3 {
+/*h1,h2, h3 {
 	display: block;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 5px;
-}
+}*/
 
 h1 {
 	font-size: 30px;
@@ -314,8 +314,8 @@ section {
 	#logo
 	{
 		position: relative;
-		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		margin: 20%;
+		min-height: 120px;
 		cursor: default;
 	}
 	
