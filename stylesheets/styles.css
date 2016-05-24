@@ -208,14 +208,14 @@ td {
 
 /* Wrapper */
 .wrapper {
-  width:960px;
+  /*width:960px;*/
 }
 
 
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:74%;
   float:right;
   padding-bottom:50px;
 }
