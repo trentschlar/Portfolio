@@ -11,6 +11,7 @@
 	body,input,textarea,select
 	{
 		font-size: 16pt;
+		padding: 2%;
 	}
 
 	.container
@@ -48,6 +49,7 @@
 	{
 		width: 100%;
 		position: relative;
+		padding: 5%;
 	}
 
 	#logo
@@ -97,7 +99,7 @@
 
 	#footer
 	{
-		width: 100;%;
+		width: 95%;
 	}
 
 /*********************************************************************************/
@@ -107,4 +109,9 @@
 	#main
 	{
 		width: 100%;
+	}
+
+	section{
+		width:95%;
+		float: none;
 	}
