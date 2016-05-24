@@ -539,28 +539,20 @@ td {
 	#nav
 	{
 	}
-	
-		#nav ul
-		{
-		}
-		
-			#nav ul li
-			{
-			}
 			
-				#nav ul li a
+				#nav a
 				{
 					font-size: 0.8em;
 					padding-top: 0.5em;
 					padding-bottom: 0.5em;
 				}
 				
-					#nav ul li a span
+					#nav a span
 					{
 						padding-right: 2.25em;
 					}
 					
-						#nav ul li a span:before
+						#nav a span:before
 						{
 							left: 100%;
 							margin-left: -1.25em;
