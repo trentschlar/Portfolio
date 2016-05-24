@@ -145,9 +145,9 @@ hr {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 650px;
-  padding: 5px;
-  margin: 10px 0 32px 0;
+  max-width: 97%;
+  padding: 1%;
+  margin: 5%;
   border: 1px solid #ccc;
 }
 
