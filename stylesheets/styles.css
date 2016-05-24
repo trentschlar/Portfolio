@@ -537,7 +537,7 @@ td {
 	#header
 	{
 		width: 100%;
-		position: relative;
+		position: fixed;
 		padding: 5%;
 	}
 
@@ -624,6 +624,7 @@ td {
 		width: 24%;
 		position: fixed;
 		padding: 2%;
+		left: 0px;
 	}
 	
 	.button {
