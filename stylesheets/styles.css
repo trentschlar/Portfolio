@@ -214,11 +214,7 @@ td {
 
 /* Section - for main page content */
 
-section {
-  width:74%;
-  float:right;
-  padding-bottom:50px;
-}
+
 
 
 	/* Buttons */
@@ -612,6 +608,12 @@ section {
 		font-size: 17pt;
 	}
 	
+	section {
+                width:74%;
+  		float:right;
+  		padding-bottom:50px;
+	}
+
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
