@@ -226,11 +226,12 @@ section {
 		.button
 		{
 			position: relative;
+			width: 75%;
 			display: inline-block;
 			border-radius: 0.35em;
 			color: #fff !important;
 			text-decoration: none;
-			padding: 0.75em 2.5em 0.75em 2.5em;
+			padding: 3%;
 			background-color: #8ebebc;
 			border: 0;
 			cursor: pointer;
