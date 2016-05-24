@@ -488,9 +488,118 @@ section {
 
 @media only screen and (min-width: 480px) {
 
-/* ====================
-    INTERMEDIATE: Menu
-   ==================== */
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select
+	{
+		font-size: 16pt;
+		padding: 2%;
+	}
+
+	.container
+	{
+		padding: 0 2em 0 2em;
+	}
+
+	/* Lists */
+
+		ul.icons
+		{
+		}	
+		
+			ul.icons li
+			{
+			}
+
+			ul.icons li a
+			{
+				width: 1.75em;
+			}
+
+	/* Item */
+	
+		.item
+		{
+			margin-bottom: 20px;
+		}
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		width: 100%;
+		position: relative;
+		padding: 5%;
+	}
+
+	#logo
+	{
+	}
+	
+		#logo .image
+		{
+			position: relative;
+			margin: 0 0 0.5em 0;
+		}
+
+	#nav
+	{
+	}
+	
+		#nav ul
+		{
+		}
+		
+			#nav ul li
+			{
+			}
+			
+				#nav ul li a
+				{
+					font-size: 0.8em;
+					padding-top: 0.5em;
+					padding-bottom: 0.5em;
+				}
+				
+					#nav ul li a span
+					{
+						padding-right: 2.25em;
+					}
+					
+						#nav ul li a span:before
+						{
+							left: 100%;
+							margin-left: -1.25em;
+							line-height: 2.25em;
+						}
+
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+
+	#footer
+	{
+		width: 95%;
+		float: none;
+	}
+
+/*********************************************************************************/
+/* Main                                                                          */
+/*********************************************************************************/
+
+	#main
+	{
+		width: 100%;
+	}
+
+	section{
+		width:95%;
+		float: none;
+	}
 }
 @media only screen and (min-width: 768px) {
 
