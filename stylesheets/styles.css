@@ -288,11 +288,11 @@ td {
 			width: 100%;
 		}
 		
-		#header :hover{
+		#header :hover {
 			left: -90%;
 		}
 		
-		#header.show{
+		#header .show{
 			left: 0px;
 		}
 		
