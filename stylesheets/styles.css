@@ -379,6 +379,7 @@ td {
 					-o-transition: none;
 					-ms-transition: none;
 					transition: none;
+					margin: 2%;
 				}
 				
 					#nav ul li a span
