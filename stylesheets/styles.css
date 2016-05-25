@@ -363,7 +363,9 @@ td {
 	{
 	}
 	
-			
+		#nav ul{
+			list-style: none;
+		}	
 				#nav a
 				{
 					display: inline-block;
