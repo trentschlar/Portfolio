@@ -579,7 +579,7 @@ td {
 
 	#footer
 	{
-		width: 95%;
+		width: 100%;
 		float: none;
 	}
 
@@ -593,7 +593,7 @@ td {
 	}
 
 	section{
-		width:95%;
+		width:100%;
 		float: none;
 	}
 }
