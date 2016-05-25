@@ -1,4 +1,22 @@
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,700,400italic);
+/*@import url(https://fonts.googleapis.com/css?family=Arvo:400,700,400italic);*/
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arvo'), url(https://fonts.gstatic.com/s/arvo/v9/WJ6D195CfbTRlIs49IbkFw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arvo Bold'), local('Arvo-Bold'), url(https://fonts.gstatic.com/s/arvo/v9/0Aa8aBJcGN1n1zDNhqNrnQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arvo';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Arvo Italic'), local('Arvo-Italic'), url(https://fonts.gstatic.com/s/arvo/v9/7solcx-ZQo6LBqJvZuxkkg.woff) format('woff');
+}
 
  /*MeyerWeb Reset */
 
